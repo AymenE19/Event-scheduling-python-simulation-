@@ -8,8 +8,6 @@ Customers arrive according to an exponential inter-arrival time distribution wit
 and each customer's service time follows an exponential distribution with a mean of 4 time units.
 The simulation tracks the number of arrivals and departures, as well as the total simulation time and average waiting time per customer.
 
-Author: [Your Name]
-
 """
 
 import numpy as np 
